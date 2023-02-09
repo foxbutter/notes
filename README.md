@@ -12,6 +12,12 @@ tips..
 ## API
 - [ethers.js 中文](https://learnblockchain.cn/docs/ethers.js/)
 
+## 笔记/路图
+- [使用gitbook](https://yangjh.oschina.io/gitbook/)
+- [Java小傅哥](https://bugstack.cn/md/other/guide-to-reading.html#%E4%BA%8C%E3%80%81%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%8F%82%E8%80%83)
+
+- [九章学习笔记](https://mabuxi.gitbook.io/mabuxi/)
+
 ## 资料集合
 - [Ethereum: Learn-By-Coding 开发工具与案例](https://ethereum.org/en/developers/learning-tools/)
 
