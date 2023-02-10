@@ -1,13 +1,4 @@
-<!--
- * @Author: hh
- * @Date: 2023-02-08 21:30:40
- * @LastEditors: hh
- * @LastEditTime: 2023-02-11 01:00:06
- * @FilePath: /notes/README.md
- * @Description: 
- * 
- * Copyright (c) 2023 by ${git_name}, All Rights Reserved. 
--->
+
 # notes
 tips..
 - [life notes](https://github.com/foxbutter/notes/tree/life)
