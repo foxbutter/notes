@@ -1,7 +1,24 @@
+<!--
+ * @Author: hh
+ * @Date: 2023-02-08 21:30:40
+ * @LastEditors: hh
+ * @LastEditTime: 2023-02-10 23:07:11
+ * @FilePath: /notes/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by ${git_name}, All Rights Reserved. 
+-->
 # notes
 tips..
 - [life notes](https://github.com/foxbutter/notes/tree/life)
 - [tech notes](https://github.com/foxbutter/notes/tree/tech)
+
+## 汇总
+
+- [个人工具箱](personal_tools.md)
+
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md#%E7%AE%80%E4%BB%8B)
+
 
 ## 在线书
 - [Docker入门到实践](https://yeasy.gitbook.io/docker_practice/introduction/what)
