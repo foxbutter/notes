@@ -40,3 +40,7 @@ with open('/tmp/rakuten_list_page.html', 'wb') as f:
 
 
 ```
+
+## XPath
+
+- [Xpath 获取同级元素](https://www.cnblogs.com/VseYoung/p/8686383.html)
