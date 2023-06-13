@@ -159,3 +159,5 @@
 专业2：物流工程与管理 10.8万/2.5年
 
 ![img](https://picx.zhimg.com/v2-d8a0b0a67b961817ccadd8e3203c462a_r.jpg?source=1940ef5c)
+
+![img](https://pic2.zhimg.com/v2-c228d428a74cbf9d06fa53de77ded30d_r.jpg)
