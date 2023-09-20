@@ -33,11 +33,11 @@ tips..
 
 ## 学习
 
-* [已购-儒猿技术窝](https://apppukyptrl1086.pc.xiaoe-tech.com/bought)
-* [已购-极客时间](https://time.geekbang.org/)
+* [-儒猿技术窝](https://apppukyptrl1086.pc.xiaoe-tech.com/bought)
+* [-极客时间](https://time.geekbang.org/)
   * [极客时间文章收录](https://learn.lianglianglee.com/), [极客时间1000G资源](https://www.aliyundrive.com/s/vFvMPgSEkZt/folder/621c9c9a3099a1058d0d49058951caa1d83231e9)
-* [已购-七月在线](https://www.julyedu.com/my/courses)
-* [已购-知识星球](https://wx.zsxq.com/dweb2/index/group/48411118851818)
+* [-七月在线](https://www.julyedu.com/my/courses)
+* [-知识星球](https://wx.zsxq.com/dweb2/index/group/48411118851818)
 * [学堂在线](https://www.xuetangx.com/my-courses/current)
 * [Coursera](https://www.coursera.org/)
 
