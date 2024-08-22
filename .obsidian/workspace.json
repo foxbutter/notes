@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具和脚本/个人图库管理.md",
+                "file": "生活/庭院/园艺.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具和脚本/个人图库管理.md",
+                "file": "生活/庭院/园艺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具和脚本/个人图库管理.md",
+                "file": "生活/庭院/园艺.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具和脚本/个人图库管理.md"
+                "file": "生活/庭院/园艺.md"
               }
             }
           }
@@ -148,7 +148,29 @@
   },
   "active": "af94c422b7f0232c",
   "lastOpenFiles": [
-    "career/规划与经营你的职业-程序员职业小白书--EASY.md",
-    "工具和脚本/个人图库管理.md"
+    "工具和脚本/Idea IntelliJ.pdf",
+    "生活/庭院/园艺.md",
+    "生活/庭院",
+    "生活",
+    "工具和脚本/个人图库管理.md",
+    "工具和脚本/gitconfig.md",
+    "develop/java/java-poet.md",
+    "工具和脚本/科学上网.md",
+    "工具和脚本/未命名.md",
+    "ops/web_crawler/爬虫框架Scrapy.md",
+    "ops/web_crawler/web_scraper_ext.md",
+    "工具和脚本/mac/Mac 终端定制.md",
+    "计算机基础/网络/网络.md",
+    "工具和脚本/mac",
+    "工具和脚本/开发插件/README.md",
+    "计算机基础/网络",
+    "计算机基础",
+    "develop/go/grpc.md",
+    "develop/java",
+    "工具和脚本/README.md",
+    "架构/分布式事务.md",
+    "职业发展/MEM.md",
+    "架构",
+    "职业发展/规划与经营你的职业-程序员职业小白书--EASY.md"
   ]
 }
